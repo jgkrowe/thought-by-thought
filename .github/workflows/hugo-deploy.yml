@@ -2,7 +2,7 @@ name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: ["main"]    # 기본 브랜치명이 다르면 여기 수정
+    branches: ["master"]    # 기본 브랜치명이 다르면 여기 수정
   workflow_dispatch:
 
 permissions:
