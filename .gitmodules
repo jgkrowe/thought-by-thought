@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/typo"]
+	path = themes/typo
+	url = https://github.com/tomfran/typo.git
+[submodule "themes/nostyle"]
+	path = themes/nostyle
+	url = https://github.com/hanwenguo/hugo-theme-nostyleplease.git
+[submodule "themes/docs"]
+	path = themes/docs
+	url = https://github.com/HugoBlox/theme-documentation.git
