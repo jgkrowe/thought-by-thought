@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = "https://thought-by-thought.com/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'typo'
